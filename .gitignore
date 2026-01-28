@@ -1,0 +1,6 @@
+node-mongodb-compose/node_modules/
+node-mongodb-compose/.env
+docker-compose/frontend/node_modules/
+docker-compose/frontend/.env
+docker-compose/backend/node_modules/
+docker-compose/backend/.env

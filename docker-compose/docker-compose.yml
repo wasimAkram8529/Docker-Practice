@@ -15,7 +15,6 @@ services:
 
   backend:
     build: ./backend
-    container_name: backend
     restart: always
     ports:
       - "3000:3000"
